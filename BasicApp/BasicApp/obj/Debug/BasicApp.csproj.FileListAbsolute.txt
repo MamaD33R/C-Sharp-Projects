@@ -1,0 +1,6 @@
+D:\C-Sharp Projects\BasicApp\BasicApp\bin\Debug\BasicApp.exe.config
+D:\C-Sharp Projects\BasicApp\BasicApp\bin\Debug\BasicApp.exe
+D:\C-Sharp Projects\BasicApp\BasicApp\bin\Debug\BasicApp.pdb
+D:\C-Sharp Projects\BasicApp\BasicApp\obj\Debug\BasicApp.csproj.CoreCompileInputs.cache
+D:\C-Sharp Projects\BasicApp\BasicApp\obj\Debug\BasicApp.exe
+D:\C-Sharp Projects\BasicApp\BasicApp\obj\Debug\BasicApp.pdb
