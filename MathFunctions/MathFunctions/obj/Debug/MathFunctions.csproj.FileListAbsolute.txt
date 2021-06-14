@@ -1,0 +1,7 @@
+D:\C-Sharp Projects\C-Sharp-Projects\MathFunctions\MathFunctions\bin\Debug\MathFunctions.exe.config
+D:\C-Sharp Projects\C-Sharp-Projects\MathFunctions\MathFunctions\bin\Debug\MathFunctions.exe
+D:\C-Sharp Projects\C-Sharp-Projects\MathFunctions\MathFunctions\bin\Debug\MathFunctions.pdb
+D:\C-Sharp Projects\C-Sharp-Projects\MathFunctions\MathFunctions\obj\Debug\MathFunctions.csproj.AssemblyReference.cache
+D:\C-Sharp Projects\C-Sharp-Projects\MathFunctions\MathFunctions\obj\Debug\MathFunctions.csproj.CoreCompileInputs.cache
+D:\C-Sharp Projects\C-Sharp-Projects\MathFunctions\MathFunctions\obj\Debug\MathFunctions.exe
+D:\C-Sharp Projects\C-Sharp-Projects\MathFunctions\MathFunctions\obj\Debug\MathFunctions.pdb
