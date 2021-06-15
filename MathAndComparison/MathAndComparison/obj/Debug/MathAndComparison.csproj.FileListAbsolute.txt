@@ -1,0 +1,7 @@
+D:\C-Sharp Projects\C-Sharp-Projects\MathAndComparison\MathAndComparison\bin\Debug\MathAndComparison.exe.config
+D:\C-Sharp Projects\C-Sharp-Projects\MathAndComparison\MathAndComparison\bin\Debug\MathAndComparison.exe
+D:\C-Sharp Projects\C-Sharp-Projects\MathAndComparison\MathAndComparison\bin\Debug\MathAndComparison.pdb
+D:\C-Sharp Projects\C-Sharp-Projects\MathAndComparison\MathAndComparison\obj\Debug\MathAndComparison.csproj.CoreCompileInputs.cache
+D:\C-Sharp Projects\C-Sharp-Projects\MathAndComparison\MathAndComparison\obj\Debug\MathAndComparison.exe
+D:\C-Sharp Projects\C-Sharp-Projects\MathAndComparison\MathAndComparison\obj\Debug\MathAndComparison.pdb
+D:\C-Sharp Projects\C-Sharp-Projects\MathAndComparison\MathAndComparison\obj\Debug\MathAndComparison.csproj.AssemblyReference.cache
