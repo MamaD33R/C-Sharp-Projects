@@ -25,16 +25,16 @@ namespace BooleanLogic
             //Console.WriteLine(true ^ true); // ^ = XOR if one is true, but not both
 
             Console.WriteLine("What is your age?: ");
-            age = Convert.ToInt32(Console.ReadLine());
+            age = Convert.ToInt32(Console.ReadLine()); // getting age int for qualified
 
             Console.WriteLine("Have you ever had a DUI? Answer yes or no: ");
-            dui = Console.ReadLine();
+            dui = Console.ReadLine();                  // getting yes or no answer for qualified
 
             Console.WriteLine("How many speeding tickets do you have?: ");
-            ticket = Convert.ToInt32(Console.ReadLine());
+            ticket = Convert.ToInt32(Console.ReadLine());      // getting ticket amount int for qualified
 
-            Console.WriteLine("Qualified?: ");
-            bool qualified = (age >= 15 && dui == "no" && ticket <= 3); 
+            Console.WriteLine("Qualified?: ");  // this asks: is age greater than or equal to 15, does the dui answer equal "no" instead of "yes,
+            bool qualified = (age >= 15 && dui == "no" && ticket <= 3);  // and is their total tickets less than or equal to 3
             Console.WriteLine(qualified);
             Console.ReadLine();
 
