@@ -1,0 +1,7 @@
+D:\C-Sharp Projects\C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.exe.config
+D:\C-Sharp Projects\C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.exe
+D:\C-Sharp Projects\C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.pdb
+D:\C-Sharp Projects\C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
+D:\C-Sharp Projects\C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+D:\C-Sharp Projects\C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.exe
+D:\C-Sharp Projects\C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.pdb
