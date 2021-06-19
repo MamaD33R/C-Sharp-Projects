@@ -1,0 +1,7 @@
+D:\C-Sharp Projects\C-Sharp-Projects\BranchingShipping\BranchingShipping\bin\Debug\BranchingShipping.exe.config
+D:\C-Sharp Projects\C-Sharp-Projects\BranchingShipping\BranchingShipping\bin\Debug\BranchingShipping.exe
+D:\C-Sharp Projects\C-Sharp-Projects\BranchingShipping\BranchingShipping\bin\Debug\BranchingShipping.pdb
+D:\C-Sharp Projects\C-Sharp-Projects\BranchingShipping\BranchingShipping\obj\Debug\BranchingShipping.csproj.AssemblyReference.cache
+D:\C-Sharp Projects\C-Sharp-Projects\BranchingShipping\BranchingShipping\obj\Debug\BranchingShipping.csproj.CoreCompileInputs.cache
+D:\C-Sharp Projects\C-Sharp-Projects\BranchingShipping\BranchingShipping\obj\Debug\BranchingShipping.exe
+D:\C-Sharp Projects\C-Sharp-Projects\BranchingShipping\BranchingShipping\obj\Debug\BranchingShipping.pdb
