@@ -1,0 +1,7 @@
+D:\C-Sharp Projects\C-Sharp-Projects\ArrayAndList\ArrayAndList\bin\Debug\ArrayAndList.exe.config
+D:\C-Sharp Projects\C-Sharp-Projects\ArrayAndList\ArrayAndList\bin\Debug\ArrayAndList.exe
+D:\C-Sharp Projects\C-Sharp-Projects\ArrayAndList\ArrayAndList\bin\Debug\ArrayAndList.pdb
+D:\C-Sharp Projects\C-Sharp-Projects\ArrayAndList\ArrayAndList\obj\Debug\ArrayAndList.csproj.AssemblyReference.cache
+D:\C-Sharp Projects\C-Sharp-Projects\ArrayAndList\ArrayAndList\obj\Debug\ArrayAndList.csproj.CoreCompileInputs.cache
+D:\C-Sharp Projects\C-Sharp-Projects\ArrayAndList\ArrayAndList\obj\Debug\ArrayAndList.exe
+D:\C-Sharp Projects\C-Sharp-Projects\ArrayAndList\ArrayAndList\obj\Debug\ArrayAndList.pdb
