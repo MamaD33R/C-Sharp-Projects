@@ -1,0 +1,7 @@
+D:\C-Sharp Projects\C-Sharp-Projects\Strings\Strings\bin\Debug\Strings.exe.config
+D:\C-Sharp Projects\C-Sharp-Projects\Strings\Strings\bin\Debug\Strings.exe
+D:\C-Sharp Projects\C-Sharp-Projects\Strings\Strings\bin\Debug\Strings.pdb
+D:\C-Sharp Projects\C-Sharp-Projects\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+D:\C-Sharp Projects\C-Sharp-Projects\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+D:\C-Sharp Projects\C-Sharp-Projects\Strings\Strings\obj\Debug\Strings.exe
+D:\C-Sharp Projects\C-Sharp-Projects\Strings\Strings\obj\Debug\Strings.pdb
