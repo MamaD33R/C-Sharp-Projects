@@ -1,0 +1,7 @@
+D:\C-Sharp Projects\C-Sharp-Projects\Loops\Loops\bin\Debug\Loops.exe.config
+D:\C-Sharp Projects\C-Sharp-Projects\Loops\Loops\bin\Debug\Loops.exe
+D:\C-Sharp Projects\C-Sharp-Projects\Loops\Loops\bin\Debug\Loops.pdb
+D:\C-Sharp Projects\C-Sharp-Projects\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+D:\C-Sharp Projects\C-Sharp-Projects\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+D:\C-Sharp Projects\C-Sharp-Projects\Loops\Loops\obj\Debug\Loops.exe
+D:\C-Sharp Projects\C-Sharp-Projects\Loops\Loops\obj\Debug\Loops.pdb
