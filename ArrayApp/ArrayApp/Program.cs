@@ -7,9 +7,9 @@ using System.Collections.Generic;
     {
         static void Main(string[] args)
         {
-        string[] stringArray = { "hello", "it's very", "nice", "to", "meet you" };
+        string[] stringArray = { "hello", "it's very", "nice", "to", "meet you" }; // created string array
         Console.WriteLine("Please select a number: 0-4 ");
-        int array = Convert.ToInt32(Console.ReadLine());
+        int array = Convert.ToInt32(Console.ReadLine());        
         if ( array > 4)
         {
             Console.WriteLine("Please enter a correct number.");
@@ -18,7 +18,7 @@ using System.Collections.Generic;
         }
         else
         {
-            Console.WriteLine(stringArray[array]); 
+            Console.WriteLine(stringArray[array]); // takes number from user and finds that index in array
         }
         
         
@@ -39,7 +39,7 @@ using System.Collections.Generic;
         
         
 
-        List<string> flower = new List<string>();
+        List<string> flower = new List<string>();  // string list
 
         flower.Add("tulip");
         flower.Add("rose");
@@ -48,7 +48,7 @@ using System.Collections.Generic;
 
         Console.WriteLine("Please select a number: 0-3 ");
         int flower2 = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine(flower[flower2]);
+        Console.WriteLine(flower[flower2]);  // takes number from user and finds that index in list to display
         Console.ReadLine();
 
 
