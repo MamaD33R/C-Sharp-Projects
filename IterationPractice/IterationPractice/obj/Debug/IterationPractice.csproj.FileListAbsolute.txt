@@ -1,0 +1,7 @@
+D:\C-Sharp Projects\C-Sharp-Projects\IterationPractice\IterationPractice\bin\Debug\IterationPractice.exe.config
+D:\C-Sharp Projects\C-Sharp-Projects\IterationPractice\IterationPractice\bin\Debug\IterationPractice.exe
+D:\C-Sharp Projects\C-Sharp-Projects\IterationPractice\IterationPractice\bin\Debug\IterationPractice.pdb
+D:\C-Sharp Projects\C-Sharp-Projects\IterationPractice\IterationPractice\obj\Debug\IterationPractice.csproj.AssemblyReference.cache
+D:\C-Sharp Projects\C-Sharp-Projects\IterationPractice\IterationPractice\obj\Debug\IterationPractice.csproj.CoreCompileInputs.cache
+D:\C-Sharp Projects\C-Sharp-Projects\IterationPractice\IterationPractice\obj\Debug\IterationPractice.exe
+D:\C-Sharp Projects\C-Sharp-Projects\IterationPractice\IterationPractice\obj\Debug\IterationPractice.pdb
