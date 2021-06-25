@@ -12,7 +12,7 @@ class Program
         Console.WriteLine("Welcome to Package Express. Please follow the instructions below.");
         Console.WriteLine("---vvv---");
         Console.WriteLine("Please enter package weight: ");
-        int weight = Convert.ToInt32(Console.ReadLine());                   // if weight > 50, exit program, ELSE proceed for package width
+        double weight = Convert.ToDouble(Console.ReadLine());                   // if weight > 50, exit program, ELSE proceed for package width
 
         if (weight > 50)
         {
@@ -22,15 +22,15 @@ class Program
         else
         {
             Console.WriteLine("Please enter package width: ");
-            int width = Convert.ToInt32(Console.ReadLine());
+            double width = Convert.ToDouble(Console.ReadLine());
             // collecting width, height, length for dimensions
             Console.WriteLine("Please enter package height: ");
-            int height = Convert.ToInt32(Console.ReadLine());
+            double height = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Please enter package length: ");
-            int length = Convert.ToInt32(Console.ReadLine());
+            double length = Convert.ToDouble(Console.ReadLine());
 
-            int dimensions = height * 2 + length + width * 2;       // gathering total dimensions of package
+            double dimensions = height + length + width;       // gathering total dimensions of package
 
 
 
@@ -41,7 +41,7 @@ class Program
             }
             else
             {
-                float quote = dimensions * weight / 100;                           // taking measurements and dividing by 100 for quote for shipping price
+                double quote = dimensions * weight / 100;                           // taking measurements and dividing by 100 for quote for shipping price
 
                 Console.WriteLine("Your estimated total for shipping this package is: ${0}", quote);
                 Console.WriteLine("Thank you!");
