@@ -30,8 +30,8 @@ class Program
             Console.WriteLine("Please enter package length: ");
             double length = Convert.ToDouble(Console.ReadLine());
 
-            double dimensions = height * length * width * weight;       // gathering total dimensions of package
-
+            double dimensions = height + length + width;      // gathering total dimensions of package
+            
 
 
             if (dimensions > 50)
@@ -41,7 +41,8 @@ class Program
             }
             else
             {
-                double quote = dimensions / 100;                           // taking measurements and dividing by 100 for quote for shipping price
+                double dimensions2 = height * length * width * weight;
+                double quote = dimensions2 / 100;                           // taking measurements and dividing by 100 for quote for shipping price
 
                 Console.WriteLine("Your estimated total for shipping this package is: ${0}", quote);
                 Console.WriteLine("Thank you!");
