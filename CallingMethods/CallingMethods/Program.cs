@@ -14,7 +14,7 @@ namespace CallingMethods
             int i = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Your number added by 100: ");
-            Math.Addition(i);
+            Math.Addition(i); // called on math class' method addition, multi, and divi for user input math operation
             Math.Multi(i);
             Math.Divi(i);
 
