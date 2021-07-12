@@ -49,7 +49,7 @@ namespace StringsAndIntegers
             }
             finally
             {
-                Console.WriteLine("The program has emerged from try/catch block.");
+                Console.WriteLine("The program has emerged from try/catch block");
             }
             Console.ReadLine();
         }
