@@ -1,0 +1,7 @@
+D:\C-Sharp Projects\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe.config
+D:\C-Sharp Projects\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe
+D:\C-Sharp Projects\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.pdb
+D:\C-Sharp Projects\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.AssemblyReference.cache
+D:\C-Sharp Projects\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.CoreCompileInputs.cache
+D:\C-Sharp Projects\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.exe
+D:\C-Sharp Projects\C-Sharp-Projects\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.pdb
