@@ -1,0 +1,7 @@
+D:\C-Sharp Projects\C-Sharp-Projects\MainMethod\MainMethod\bin\Debug\MainMethod.exe.config
+D:\C-Sharp Projects\C-Sharp-Projects\MainMethod\MainMethod\bin\Debug\MainMethod.exe
+D:\C-Sharp Projects\C-Sharp-Projects\MainMethod\MainMethod\bin\Debug\MainMethod.pdb
+D:\C-Sharp Projects\C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.AssemblyReference.cache
+D:\C-Sharp Projects\C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.CoreCompileInputs.cache
+D:\C-Sharp Projects\C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\MainMethod.exe
+D:\C-Sharp Projects\C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\MainMethod.pdb
