@@ -14,9 +14,14 @@ namespace MainMethod
             int x = 20;
             decimal y = 2.2m;
 
-            Math.Add(x);
-            Math.Add(y);
-            Math.Add(i);
+            int result1 = Math.Add(x);
+            Console.WriteLine(result1);
+
+            decimal result2 = Math.Add(y);
+            Console.WriteLine(result2);
+
+            int result3 = Math.Add(i);
+            Console.WriteLine(result3);
 
             Console.ReadLine();
         }
