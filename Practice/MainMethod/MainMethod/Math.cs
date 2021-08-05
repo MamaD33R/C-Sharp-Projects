@@ -8,19 +8,20 @@ namespace MainMethod
 {
     class Math
     {
-        public static int Add(int x) // method overloading but passing in different types of parameters 
+        public int Add(int x) // method overloading but passing in different types of parameters 
         {
             int result = x * 10;
             return result;
         }
 
-        public static decimal Add(decimal y)
+        public int Add(decimal y)
         {
-            decimal result2 = y * 42;
+            int convert = Convert.ToInt32(y);
+            int result2 = convert * 42;
             return result2;
         }
 
-        public static int Add(string i)
+        public int Add(string i)
         {
 
             int convert = Convert.ToInt32(i);

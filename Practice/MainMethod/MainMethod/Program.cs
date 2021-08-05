@@ -10,6 +10,8 @@ namespace MainMethod
     {
         static void Main(string[] args)
         {
+            Math math = new Math();
+
             string i = "5";
             int x = 20;
             decimal y = 2.2m;
